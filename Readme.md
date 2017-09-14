@@ -4,6 +4,8 @@
 
 [![GoDoc](https://godoc.org/github.com/tools/godep?status.svg)](https://godoc.org/github.com/tools/godep)
 
+Here is the [Official tool](https://github.com/golang/dep) of godep.
+
 godep helps build packages reproducibly by fixing their dependencies.
 
 This tool assumes you are working in a standard Go workspace, as described in
